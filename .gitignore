@@ -263,3 +263,4 @@ paket-files/
 __pycache__/
 *.pyc
 FilmafinityBot/Properties/launchSettings.json
+*.pubxml
